@@ -11,4 +11,3 @@ if integer == 1:
     print("A character after")
 else:
     print(str(integer) + " characters after " + character + " is "+ chr(int_chr + integer))
-    print("Never gonna give you up")
