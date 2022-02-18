@@ -39,4 +39,4 @@ while game == True:
 if loser == True:
     print("Player2 won!")
 else:
-    print("PLayer1 won!")
+    print("Player1 won!")
